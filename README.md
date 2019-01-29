@@ -1,1 +1,1 @@
-# bootstrap-practice
+# bootstrapを使用する
